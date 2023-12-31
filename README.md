@@ -12,6 +12,6 @@ Hermanto is a lecturer at the Accounting Study Program at Esa Unggul University.
 Hermanto also wrote an article in the Economic Journal Volume 8 Number 1, May 2017 with the title "Behavior of Economics Students at Esa Unggul University in Investing in the Capital Market".
 
 # SOCIAL MEDIA
-Linkedin : https://www.linkedin.com/in/hermanto-se-m-ak-ceh-4a812792/?originalSubdomain=id
-Kagle    : https://www.kaggle.com/hermantoliu
-GMAIL    : code.helik89@gmail.com
+<span> Linkedin : https://www.linkedin.com/in/hermanto-se-m-ak-ceh-4a812792/?originalSubdomain=id </span> <br>
+<span> Kagle    : https://www.kaggle.com/hermantoliu </span> <br>
+<span> GMAIL    : code.helik89@gmail.com </span> <br>
