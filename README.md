@@ -3,5 +3,15 @@
 
 
 # Programming Language
-1.  Python
-2.  R Language
+1.  Python.
+2.  R Language.
+
+# MY BIO
+Hermanto is a lecturer at the Accounting Study Program at Esa Unggul University. Hermanto has a Master's degree in Accounting and expertise in finance, risk management, auditing and information systems. Hermanto is also one of the best graduates of the Certified Ethical Hacker certification in 2019.
+
+Hermanto also wrote an article in the Economic Journal Volume 8 Number 1, May 2017 with the title "Behavior of Economics Students at Esa Unggul University in Investing in the Capital Market".
+
+# SOCIAL MEDIA
+Linkedin : https://www.linkedin.com/in/hermanto-se-m-ak-ceh-4a812792/?originalSubdomain=id
+Kagle    : https://www.kaggle.com/hermantoliu
+GMAIL    : code.helik89@gmail.com
